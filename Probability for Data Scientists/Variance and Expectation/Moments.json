@@ -1,0 +1,9 @@
+[{
+	"title": "Moments",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "The expected values of the powers of X are called the moments of X.<ul><li>Mean: E[X]</li><li>Variance: E[(X − E[X])2 ] = E[X2 ] − E[X]2 (Standard Deviation = √ Variance)</li><li>There are higher order moments of both X and X − E[X].</li></ul>"
+		}
+	]
+}]

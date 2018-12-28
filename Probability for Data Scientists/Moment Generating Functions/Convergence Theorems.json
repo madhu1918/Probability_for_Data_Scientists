@@ -1,0 +1,33 @@
+[{
+	"title": "Convergence Theorems",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Almost Sure Convergence"
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "Convergence in Probability"
+		},
+		{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+		},
+				{
+			"text": "Weak Convergence"
+		},
+		{
+			"image": {
+				"imageSRC": "image-3.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

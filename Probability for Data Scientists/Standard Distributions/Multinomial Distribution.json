@@ -1,0 +1,18 @@
+[{
+	"title": "Multinomial Distribution",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "The multinomial distribution or probability is just a generalization of the binomial distribution or probability. Binomial distribution is used in cases where we have only two possible outcomes. But we use multinomial distribution in cases where there are more than two outcomes.<br><br>For Example: the experiment of flipping a coin has only two outcomes while experiment of throwing a dice has six outcomes. So in case of large number of trials of throwing dice experiment we would require the use of multinomial probability and not binomial probability.<br><br>A multinomial experiment possesses following properties:<ol><li>There are 'n' number of repeated trials in it.</li><li>Every trial has a fix possible number of outcomes.</li><li>The probability for any of the trial, is constant for a particular outcome.</li><li>All of the trials are independent of each other. This means that the results of any one of them does not affect any other.</li></ol>A multinomial distribution is the distribution of probability in which the outcomes are coming from a multinomial experiment.<br><br>If we made 'n' number of trials in an experiment out of which 'k' 'types of outcomes' probability can then be determined by using the formula for multinomial probability given below: "
+		},
+		{
+			"image": {
+				"imageSRC": "image-8.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "Here, P is the multinomial probability for the given experiment.<ol><li>'n' is the number of total trials made in the experiment.</li><li>n1, is the number of occurrences of the first outcome</li><li>n2 is the number of occurrences of the second outcome …, and so on</li><li>nk is the number of occurrences of nth outcome.</li></ol>"
+		},
+	]
+}]

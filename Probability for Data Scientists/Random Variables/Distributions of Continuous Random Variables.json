@@ -1,0 +1,30 @@
+[{
+	"title": "Distributions of Continuous Random Variables",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "A continuous random variable X assumes values in R. The distribution of continuous random variables is completely described by a probability density function fX : R → R+"
+		},
+		{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "such that"
+		},
+		{
+			"image": {
+				"imageSRC": "image-3.png",
+				"imageName": ""
+			}
+		},
+		{
+			"image": {
+				"imageSRC": "image-4.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

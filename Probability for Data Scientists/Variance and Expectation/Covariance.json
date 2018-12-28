@@ -1,0 +1,27 @@
+[{
+	"title": "Covariance",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "The covariance between two jointly distributed real-valued random variables X and Y with finite second moments is defined as: "
+		},
+		{
+			"image": {
+				"imageSRC": "image-4.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "By using the linearity property of expectations:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-5.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "If σ(X, Y ) = 0, the two random variables are uncorrelated"
+		}
+	]
+}]

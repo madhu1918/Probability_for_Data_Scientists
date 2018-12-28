@@ -1,0 +1,113 @@
+﻿{
+    "activities": [],
+    "learningObjectives": [],
+    "overview": [
+    ],
+    "title": "Probability for Data Scientists",
+    "units": [{
+            "activities": [
+                "Introduction",
+                "Probability Space",
+                "Sample Space",
+                "Set of Events",
+                "Probability"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Probability Theory and Statistics"
+        },
+        {
+            "activities": [
+                "Introduction"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Combinatorics"
+        },
+        {
+            "activities": [
+                "Distributions of Discrete Random Variables",
+                "Distributions of Continuous Random Variables",
+                "Probability Distribution",
+                "Joint Distribution",
+                "Independence",
+                "Conditional Probability",
+                "Bayes Theorem"
+            ],
+            "learningObjectives": [],
+            "overview": [
+                "A random variable is a function from a sample space to a real number.<br>X : Ω → R <br>Example:<ul><li>Single coin flip<ul><li>X(H) = 1, X(T) = −1.</li></ol></li><li>Double dice roll<ul><li>X(i, j) = i Y (i, j) = j Z(i, j) = i + j.</li></ol></li></ol>"
+            ],
+            "title": "Random Variables"
+        },
+        {
+            "activities": [
+                "Expectation",
+                "Basic Properties of Expectation",
+                "Moments",
+                "Covariance",
+                "Conditional Expectation",
+                "Inequalities involving Expectation",
+                "Inequalities involving Conditional Expectation"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Variance and Expectation"
+        },
+        {
+            "activities": [
+                "Bernoulli Distribution",
+                "Uniform Distribution",
+                "Binomial Distribution",
+                "Normal Distribution",
+                "Poisson Distribution",
+                "Exponential Distribution",
+                "Multinomial Distribution"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Standard Distributions"
+        },
+        {
+            "activities": [
+                "Convergence Theorems",
+                "Law of Large Numbers",
+                "Central Limit Theorem"
+            ],
+            "learningObjectives": [],
+            "overview": [
+                "Moment generating function and characteristic function characterizes the distribution of the random variable."
+            ],
+            "title": "Moment Generating Functions"
+        },
+        {
+            "activities": [
+                "What is Statistics",
+                "Estimation and Estimators",
+                "Properties of Estimators",
+                "Estimation Strategies"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Statistics"
+        },
+        {
+            "activities": [
+                "Introduction"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Maximum Likelihood Estimation"
+        },
+        {
+            "activities": [
+                "Introduction",
+                "Error in Hypothesis Testing"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Hypothesis Testing"
+        }
+
+    ]
+}

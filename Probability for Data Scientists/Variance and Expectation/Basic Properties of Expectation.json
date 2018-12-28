@@ -1,0 +1,9 @@
+[{
+	"title": "Basic Properties of Expectation",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<ul><li>Monotonicity:<ul><li>If X and Y are random variables such that X ≤ Y ”almost surely”, then E[X] ≤ E[Y ]. </li></ul></li><li>Linearity</li><ul><li>E[aX + bY + c] = aE[X] + bE[Y ] + c</li></ul></li></ul>"
+		}
+	]
+}]

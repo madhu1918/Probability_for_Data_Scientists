@@ -1,0 +1,18 @@
+[{
+	"title": "Bernoullis Distribution",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "A Bernoulli distribution has only two possible outcomes, namely 1 (success) and 0 (failure), and a single trial. So the random variable X which has a Bernoulli distribution can take value 1 with the probability of success, say p, and the value 0 with the probability of failure, say q or 1-p."
+		},
+		{
+			"text": "<br><br>Here, the occurrence of a head denotes success, and the occurrence of a tail denotes failure. Probability of getting a head = 0.5 = Probability of getting a tail since there are only two possible outcomes."
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

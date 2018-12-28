@@ -1,0 +1,15 @@
+[{
+	"title": "Error in Hypothesis Testing",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<ol><li>Type 1 Error: Reject the null hypothesis when it is true</li><li>Type 2 Error: Accept the null hypothesis when it is false</li></ol>"
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

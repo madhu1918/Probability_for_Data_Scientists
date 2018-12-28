@@ -1,0 +1,18 @@
+[{
+	"title": "Bayes Theorem",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "The relationship between P(A|B) and P(B|A) is given by"
+		},
+		{
+			"image": {
+				"imageSRC": "image-12.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "That is, P(A|B) = P(B|A) only if P(B)/P(A) = 1, or equivalently, P(A) = P(B)."
+		},
+	]
+}]

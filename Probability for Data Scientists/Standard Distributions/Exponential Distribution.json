@@ -1,0 +1,15 @@
+[{
+	"title": "Exponential Distribution",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Let’s consider the call center example one more time. What about the interval of time between the calls ? Here, exponential distribution comes to our rescue. Exponential distribution models the interval of time between the calls.<br>Other examples are:<br>1. Length of time between metro arrivals,<br>2. Length of time between arrivals at a gas station<br>3. The life of an Air Conditioner<br><br>Exponential distribution is widely used for survival analysis. From the expected life of a machine to the expected life of a human, exponential distribution successfully delivers the result."
+		},
+		{
+			"image": {
+				"imageSRC": "image-7.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

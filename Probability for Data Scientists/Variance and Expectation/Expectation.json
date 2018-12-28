@@ -1,0 +1,33 @@
+[{
+	"title": "Exception",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "For discrete random variable X, the expectation of X is:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "For continuous random variable Y , the expectation of Y is"
+		},
+		{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "We can also compute expectation of g(X) and g(Y ) as: "
+		},
+		{
+			"image": {
+				"imageSRC": "image-3.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

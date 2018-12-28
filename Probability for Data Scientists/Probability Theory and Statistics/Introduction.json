@@ -1,0 +1,9 @@
+[{
+	"title": "Introduction",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Probability theory provides the foundation for doing statistics. It is the mathematical framework for discussing experiments with an outcome that is uncertain. The purpose of probability theory is to capture the mathematical essence of a quantification of uncertainty, which is done abstractly by specifying what properties such a quantification should have. Subsequently based on the abstract definition we derive properties about probabilities and give a number of examples. This approach is axiomatic and mathematical and the mathematical treatment is self-contained and independent of any interpretation of probabilities we might have. The interpretation is, however, what gives probability theory its special flavour and makes it applicable. We give a mathematical presentation of probability theory to develop a proper language, and to get accustomed to the vocabulary used in probability theory and statistics. However, we can not and will not try to derive and give mathematical proofs of everything we need along the way."
+		}
+	]
+}]

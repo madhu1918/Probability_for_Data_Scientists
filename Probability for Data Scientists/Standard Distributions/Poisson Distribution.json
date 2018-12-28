@@ -1,0 +1,18 @@
+[{
+	"title": "Poisson Distribution",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Suppose you work at a call center, approximately how many calls do you get in a day? It can be any number. Now, the entire number of calls at a call center in a day is modeled by Poisson distribution. Some more examples are<ol><li>The number of emergency calls recorded at a hospital in a day.</li><li>The number of thefts reported in an area on a day.</li><li>The number of customers arriving at a salon in an hour.</li><li>The number of suicides reported in a particular city.</li><li>The number of printing errors at each page of the book.</li></ol><br><br>You can now think of many examples following the same course. Poisson Distribution is applicable in situations where events occur at random points of time and space wherein our interest lies only in the number of occurrences of the event."
+		},
+		{
+			"text": "<br><br>A distribution is called Poisson distribution when the following assumptions are valid:<br>1. Any successful event should not influence the outcome of another successful event.<br>2. The probability of success over a short interval must equal the probability of success over a longer interval.<br>3. The probability of success in an interval approaches zero as the interval becomes smaller.<br><br>Now, if any distribution validates the above assumptions then it is a Poisson distribution. Some notations used in Poisson distribution are:<ul><li>λ is the rate at which an event occurs,</li><li>t is the length of a time interval,</li><li>And X is the number of events in that time interval.</li></ol><br><br>Here, X is called a Poisson Random Variable and the probability distribution of X is called Poisson distribution.<br><br>Let µ denote the mean number of events in an interval of length t. Then, µ = λ*t."
+		},
+		{
+			"image": {
+				"imageSRC": "image-6.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

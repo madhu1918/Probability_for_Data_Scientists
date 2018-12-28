@@ -1,0 +1,51 @@
+[{
+	"title": "Independence",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Two events A and B are independent if and only if their joint probability equals the product of their probabilities:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-6.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "Two events A and B are independent if and only if their joint probability equals the product of their probabilities:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-7.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "A finite set of events is mutually independent if and only if every event is independent of any intersection of the other events.That is, iff for every subset An"
+		},
+		{
+			"image": {
+				"imageSRC": "image-8.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "A set of random variables is pairwise independent iff every pair of random variables is independent. That is either joint cumulative distribution function"
+		},
+		{
+			"image": {
+				"imageSRC": "image-9.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "or equivalently, joint density"
+		},
+		{
+			"image": {
+				"imageSRC": "image-10.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

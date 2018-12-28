@@ -1,0 +1,9 @@
+[{
+	"title": "Sample space",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "A sample space is the set of all possible outcomes.<ul><li>Single coin flip: Ω = {H,T}.</li><li>Double coin flip: Ω = {(H, H),(H,T),(T, H),(T,T)}.</li><li>Single dice roll: Ω = {1, 2, 3, 4, 5, 6}.</li></ul>"
+		}
+	]
+}]

@@ -1,0 +1,15 @@
+[{
+	"title": "Uniform Distribution",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "When you roll a fair die, the outcomes are 1 to 6. The probabilities of getting these outcomes are equally likely and that is the basis of a uniform distribution. Unlike Bernoulli Distribution, all the n number of possible outcomes of a uniform distribution are equally likely."
+		},
+		{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

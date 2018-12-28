@@ -1,0 +1,27 @@
+[{
+	"title": "Normal Distribution",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Normal distribution represents the behavior of most of the situations in the universe (That is why it’s called a “normal” distribution. I guess!). The large sum of (small) random variables often turns out to be normally distributed, contributing to its widespread application. Any distribution is known as Normal distribution if it has the following characteristics:<ol><li>The mean, median and mode of the distribution coincide.</li><li>The curve of the distribution is bell-shaped and symmetrical about the line x=μ.</li><li>The total area under the curve is 1.</li><li>Exactly half of the values are to the left of the center and the other half to the right.</li></ol>"
+		},
+		{
+			"text": "<br><br>A normal distribution is highly different from Binomial Distribution. However, if the number of trials approaches infinity then the shapes will be quite similar.<br>The PDF of a random variable X following a normal distribution is given by:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-4.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "<br><br>A standard normal distribution is defined as the distribution with mean 0 and standard deviation 1.  For such a case, the PDF becomes:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-5.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

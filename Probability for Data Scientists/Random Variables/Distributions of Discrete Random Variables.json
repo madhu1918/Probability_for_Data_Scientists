@@ -1,0 +1,15 @@
+[{
+	"title": "Distributions of Discrete Random Variables",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "A discrete random variable X assumes values in discrete subset S of R. The distribution of a discrete random variable is completely described by a probability mass function pX : R → [0, 1]"
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

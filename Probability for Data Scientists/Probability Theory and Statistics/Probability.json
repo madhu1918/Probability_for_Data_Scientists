@@ -1,0 +1,24 @@
+[{
+	"title": "Probability",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "A set function on the set of events such that<ul><li>0 ≤ P(A) ≤ 1 for all events A. </li><li>P(Ω) = 1.</li></ul><br><br>For each sequence of mutually disjoint events A1, A2, A3, ...."
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "<ul><li>Fair coin<br>P(∅) = 0<br>P({H}) = 1/2<br>P({T}) = 1/2<br>P({H,T}) = 1</li><li>Fair die<br>P(∅) = 0<br>P({1}) = 1/6<br>P({2}) = 1/6<br>P({1, 2, 3}) = ½</li><li>Some properties:<br>P(∅) = 0.<br>P(A c ) = 1 − P(A).<br>If A ⊆ B, then P(A) ≤ P(B). P(A ∪ B) = P(A) + P(B) − P(A ∩ B).<br>For each sequence of events A1, A2, A3, ... (not necessarily disjoint), "
+		},
+		{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+		},
+	]
+}]

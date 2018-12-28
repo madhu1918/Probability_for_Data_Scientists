@@ -1,0 +1,9 @@
+[{
+	"title": "Set of Events",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "A event is a subset of the sample space.<ul><li>Single coin flip: (Event that a coin lands head) A = {H}.</li><li>Double coin flip: (Event that first coin lands head) A = {(H, H),(H,T)}.</li><li>Single dice roll: (Event that the dice roll is less than 4) A = {1, 2, 3}.</li><li>Double dice roll: (Event that the dice roll add up to less than 4) A = {(1, 1),(1, 2),(2, 1)}</li></ul><br>The collection of all such events we would like to consider are called the set of events, F. F is a σ-algebra. Ω ∈ F.<ul><li>F is closed under complementation.</li><li>F is closed under countable unions.</li></ul>"
+		}
+	]
+}]

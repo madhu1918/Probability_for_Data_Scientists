@@ -1,0 +1,9 @@
+[{
+	"title": "Estimation and Estimators",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Estimation is making a best guess of an unknown parameter out of sample data.<br><br>An estimator is a statistic that is used to infer the value of an unknown parameter in a statistical model. (rule of estimation)."
+		}
+	]
+}]

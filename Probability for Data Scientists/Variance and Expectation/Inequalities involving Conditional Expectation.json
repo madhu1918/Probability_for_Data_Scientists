@@ -1,0 +1,36 @@
+[{
+	"title": "Inequalities involving Conditional Expectation",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<ul><li><b>Markov's Inequality:</b><br>If X and Y are any nonnegative integrable random variables and a > 0, then</ul>"
+		},
+		{
+			"image": {
+				"imageSRC": "image-12.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "<ul><li><b>Jensens Inequality:</b><br>If X and Y are random variables and ϕ is a convex function, then</ul>"
+		},
+		{
+			"image": {
+				"imageSRC": "image-13.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "<ul><li><b>Holder’s Inequality: </b><br>If X Y and Z are random variables on Ω, and p, q > 1 with 1/p + 1/q = 1,</ul>"
+		},
+		{
+			"image": {
+				"imageSRC": "image-14.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "<ul><li><b>Holder’s Inequality: </b></li><ul><li>Additional Properties of Conditional Expectation</li><li>E[Xg(Y )|Y ] = g(Y )E[X|Y ] </li><li>E[E[X|Y , Z]|Y ] = E[X|Y ] </li><li>E[X|Y ] = X, if X = g(Y ) for some g </li><li>E[h(X, Y )|Y = y] = E[h(X, y)] </li><li>E[X|Y ] = E[X], if X and Y are independent"
+		}
+	]
+}]

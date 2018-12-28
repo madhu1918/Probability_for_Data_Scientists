@@ -1,0 +1,27 @@
+[{
+	"title": "Conditional Exception",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "For discrete random variables X and Y, the conditional expectation of X given Y = y is"
+		},
+		{
+			"image": {
+				"imageSRC": "image-6.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "For continuous random variables X and Y, the conditional expectation of X given Y = y is"
+		},
+		{
+			"image": {
+				"imageSRC": "image-7.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "Linearity and monotonicity also holds for conditional expectation."
+		}
+	]
+}]

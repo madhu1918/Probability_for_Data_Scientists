@@ -1,0 +1,9 @@
+[{
+	"title": "Introduction",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Oftentimes we want to determine whether a claim is true or false. Such a claim is called a hypothesis.<ol><li> Null Hypothesis: A specific hypothesis to be tested in an experiment. Alternative</li><li> Hypoethesis: A specific hypothesis to be tested in an experiment.</li><li>Formulate the null hypothesis H0 (commonly, that the observations are the result of pure chance) and the alternative hypothesis Ha (commonly, that the observations show a real effect combined with a component of chance variation).</li><li>Identify a test statistic that can be used to assess the truth of the null hypothesis.</li><li>Compute the p-value, which is the probability that a test statistic at least as significant as the one observed would be obtained assuming that the null hypothesis were true. The smaller the p-value, the stronger the evidence against the null hypothesis.</li><li>Compare the p-value to an acceptable significance value α (sometimes called an α value). If p ≤ α, that the observed effect is statistically significant, the null hypothesis is ruled out, and the alternative hypothesis is valid.</li></ol>"
+		}
+	]
+}]

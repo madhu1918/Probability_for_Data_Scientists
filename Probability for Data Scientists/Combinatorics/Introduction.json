@@ -1,0 +1,27 @@
+[{
+	"title": "Introduction",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Permutation relates to the act of rearranging members of a set into a particular sequence or order.<ul><li>Ex) Six permutations of the set {1,2,3} </li><li>Ex) Ways to sit around a table k-permutation of n are the different ordered arrangements of a k-element subset of an n-set, usually denoted by</li></ul>"
+		},
+		{
+			"text": "k-permutation of n are the different ordered arrangements of a k-element subset of an n-set, usually denoted by:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "Combination is a way of selecting members from a grouping, such that the order of selection does not matter. <ul><li>Ex) Drawing marbles out of a box</li></ul>k-combination of n are the different groupings of a k-element subset of an n-set, usually denoted by:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

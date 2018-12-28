@@ -1,0 +1,9 @@
+[{
+	"title": "Probability Distribution",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Includes the probability mass function and probability density function mentioned above. <br>Also includes: Cumulative distribution function <ul><li>FX (x) = P(X ≤ x), x ∈ R.</li></ul>Characteristic function Any rule that defines a distribution<br><br>NOTATION: The right-hand sides of the previous displays are shorthand notation for the following: P(X ≤ x) = P({ω ∈ Ω : X(ω) ≤ x})<br><br>Note 1: Distribution can be identical even if the supporting probability space is different. Example:<br>X(H) = 1<br>X(T) = −1<br>Y (i) = ( 1, i is odd<br>( −1, i is even <br><br>Note 2: Distribution can be different even if the supporting probability space is identical."
+		}
+	]
+}]

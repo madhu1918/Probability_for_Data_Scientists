@@ -1,0 +1,42 @@
+[{
+	"title": "Inequalities involving Expectation",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "<ul><li><b>Chebyshev's Inequality:</b><br>Let X be a random variable with finite expected value µ and finite non-zero variance σ2 . Then for any real number k > 0,</ul>"
+		},
+		{
+			"image": {
+				"imageSRC": "image-8.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "<ul><li><b>Markov's Inequality:</b><br>If X is any nonnegative integrable random variable and a > 0, then</ul>"
+		},
+		{
+			"image": {
+				"imageSRC": "image-9.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "<ul><li><b>Jensens Inequality:</b><br>If X is a random variable and ϕ is a convex function, then</ul>"
+		},
+		{
+			"image": {
+				"imageSRC": "image-10.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "<ul><li><b>Holder’s Inequality: </b><br>If X and Y are random variables on Ω, and p, q > 1 with 1/p + 1/q = 1,</ul>"
+		},
+		{
+			"image": {
+				"imageSRC": "image-11.png",
+				"imageName": ""
+			}
+		}
+	]
+}]

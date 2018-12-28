@@ -1,0 +1,53 @@
+[{
+	"title": "Introduction",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "In this section, we discuss one popular approach to estimating the parameters of a probability density function. Imagine that we have N samples xn drawn independently from the same distribution, xn ∼ p(x|θ); this is called an iid (independent, identical distributed) sample, which we will call D (since it represents our “training” data). One intuitively appealing approach to parameter estimation is to find the parameter setting that makes the data as likely as possible:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "where p(D|θ) is called the likelihood of the parameters given the data; it is viewed as a function of theta, since D is fixed, so is often written L(theta). ˆθMLE is called a maximum likelihood estimate (mle). There are various theoretical reasons why this is a reasonable thing to do, which we will discuss later."
+		},
+		{
+			"image": {
+				"imageSRC": "image-2.png",
+				"imageName": ""
+			}
+		},{
+			"text": "It is often more convenient to work with log probabilities; this will not change arg maxL(θ), since log is a monotonic function. Hence we define the log likelihood as `(θ) = log p(D|θ). For iid data this becomes"
+		},
+		{
+			"image": {
+				"imageSRC": "image-3.png",
+				"imageName": ""
+			}
+		}
+		{
+			"text": "The mle then maximizes l(θ).<br>Now consider the case of MLE for the Bernoulli distirbution. Let X ∈ {0, 1}. Given D = (x1, . . . , xN ), the likelihood is"
+		},
+		{
+			"image": {
+				"imageSRC": "image-4.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "Suppose we have seen 3 tails out of 3 trials. Then we predict that the probability of heads is zero:"
+		},
+		{
+			"image": {
+				"imageSRC": "image-5.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "This is an example of overfitting and is a result of using maximum likelihood estimation. In this context, this problem is called the sparse data problem: if we fail to see something in the training set, we predict that it can never happen in the future, which seems a little extreme. To consider another example, suppose we have seen 3 white swans and 0 black swans; can we infer all swans are white? No! On visiting Australia, we may encounter a black swan. This is called the black swan paradox, and is an example of the famous problem of induction in philosophy."
+		}
+	]
+}]

@@ -1,0 +1,24 @@
+[{
+	"title": "Law of Large Numbers",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "Weak Law of Large Numbers"
+		},
+		{
+			"image": {
+				"imageSRC": "image-4.png",
+				"imageName": ""
+			}
+		},
+		{
+			"text": "Strong Law of Large Numbers"
+		},
+		{
+			"image": {
+				"imageSRC": "image-5.png",
+				"imageName": ""
+			}
+		}
+	]
+}]
